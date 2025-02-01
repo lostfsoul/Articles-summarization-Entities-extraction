@@ -1,5 +1,5 @@
 # Articles summarization & Entities extraction
-![alt text](https://www.intellippt.com/blog/wp-content/uploads/2021/04/Summary.png)
+![alt text](https://miro.medium.com/v2/resize:fit:1400/1*pF8e_bdph03I2srvb7ZMwA.png)
 ### extracting custom entities and content summarization using NLP (spacy)
 ## How it works : 
 
